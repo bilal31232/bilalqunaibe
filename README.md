@@ -1,10 +1,10 @@
-Hi, I'm Bilal Qunaibe 👋
+# Hi, I'm Bilal Qunaibe 👋
 
 Full-Stack Developer with 4+ years of experience building production web applications with React, Node.js, and TypeScript. Based in Hebron, Palestine 🇵🇸 — open to remote opportunities worldwide.
 
 I build real systems for real businesses — from ERP and attendance platforms to full accounting systems.
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 
 Frontend: React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, shadcn/ui
@@ -13,9 +13,9 @@ Database & Cloud: Firebase (Auth, Firestore, Hosting)
 Tools: Git, GitHub, Vite
 
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-📊 Manasra ERP — Attendance & Payroll System
+### 📊 Manasra ERP — Attendance & Payroll System
 
 A production ERP system I built as a developer at Manasra, used daily to manage employee attendance, working hours, and overtime calculations.
 
@@ -27,7 +27,7 @@ Real-time attendance dashboard
 
 Tech: React · TypeScript · Firebase (Auth, Firestore)
 
-💰 LuxeBloom — Accounting & Inventory System
+### 💰 LuxeBloom — Accounting & Inventory System
 
 A full-stack accounting and inventory management system I designed and built end-to-end for LuxeBloom, my own business — covering sales, inventory, and financial records.
 
@@ -39,7 +39,7 @@ Sales recording with automatic totals
 
 Tech: React · TypeScript · Node.js · Prisma · Tailwind CSS · shadcn/ui · Vite · Firebase
 
-📫 Contact
+## 📫 Contact
 
 
 📧 Email: bilalfadel200@gmail.com
