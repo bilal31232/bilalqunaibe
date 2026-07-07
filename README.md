@@ -1,6 +1,6 @@
 # Hi, I'm Bilal Qunaibe 👋
 
-** Full-Stack Developer** with **4+ years of experience** building production web applications with **React, Node.js, and TypeScript**. Based in Hebron, Palestine 🇵🇸 — open to **remote opportunities worldwide**.
+**Full-Stack Developer** with **4+ years of experience** building production web applications with **React, Node.js, and TypeScript**. Based in Hebron, Palestine 🇵🇸 — open to **remote opportunities worldwide**.
 
 I build real systems for real businesses — from ERP and attendance platforms to full accounting systems.
 
